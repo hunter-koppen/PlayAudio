@@ -21,4 +21,4 @@ Audio Player usage:
 If you really want it to work based on your own files you will have to setup a published rest service inside your mendix app and return all the correct headers together with the file you wish to play in combination with the url property.
 
 ## Issues, suggestions and feature requests
-https://github.com/hunterkoppenclevr/PlayAudio/issues
+https://github.com/hunter-koppen/PlayAudio/issues
