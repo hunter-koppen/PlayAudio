@@ -34,7 +34,6 @@ export async function JS_PlayAudio(file, url) {
 		const changedDate = file.get("changedDate");
 		filepath = "/file?guid=" + guid + "&changedDate=" + changedDate;
 	}
-
 	const audio = document.createElement('audio');
 	audio.src = filepath;
 	audio.play();
